@@ -12,9 +12,10 @@ In the near future a virus by the name of COVID-19 has spread across the globe a
  - Jump - SPACEBAR
  - Run - SHIFT
  - Firing weapon - LEFT MOUSE BUTTON
- - Grab Bridge Piece - RIGHT MOUSE BUTTON
+ - Grab Bridge Piece - MIDDLE MOUSE BUTTON
  - Aim - RIGHT MOUSE BUTTON
  - Reload - R
+ - Pause Menu - ESC
 
 ## Design and Rationale
 Realistic island floor plan to enhance immersion.
@@ -54,3 +55,6 @@ Zombies are NPC’s that were soldiers before turning into zombies. Zombies are 
  - Added a gun shot SFX to give audio confirmation to the player that they fired their weapon.
  - Added a fanfare theme when the player wins the game (getting to the other island with the supplies).
 
+## Links
+ - [Demo video](https://www.evl.uic.edu/cs426/finals/2020-Spring/Videos/TheGreatRace.mp4)
+ - [Public release](https://github.com/abreyer3/cs426_FinalProject/releases/download/v1.0-prototype/TheGreatRace-Public_Release.zip)
